@@ -11,6 +11,7 @@ A Next.js API endpoint for sending USDC (Solana SPL Token) to multiple recipient
 1. Install [Phantom](https://phantom.com/download) browser extension
 
    ![Phantom Wallet](docs/phantom.jpg)
+   ![Phantom Wallet Devnet](docs/phantom-devnet.jpg)
 2. Create a new wallet or import existing
 3. Request [SOL airdrop](https://faucet.solana.com/) for your network (Devnet/Testnet/Mainnet)
 
